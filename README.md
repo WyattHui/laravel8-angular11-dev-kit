@@ -17,6 +17,7 @@
 
 ### Deployment instructions
 * Build
+    * resources/angular
 
     ```
     npm run build:prod
